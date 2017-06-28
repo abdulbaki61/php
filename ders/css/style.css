@@ -1,0 +1,64 @@
+*{padding: 0px; margin: 0px; list-style: none;}
+
+.giris-form{
+    background: #dbdbdb;
+    padding: 15px;
+    width: 20%;
+    margin: auto;
+    margin-top: 15%;
+}
+.giris-form input{
+    margin: 15px;
+    width: 80%;
+}
+.giris-form button{
+    margin-top: 15px;
+    margin-left: 30%;
+}
+
+.kayit-form{
+    width: 25%;
+    margin: auto;
+    margin-top: 15%;
+    padding: 15px;
+}
+.kayit-form input{
+    display: block;
+    width: 90%;
+    margin: 15px;
+}
+.kayit-form button{
+    margin-left: 40%;
+}
+
+
+.profil{
+    background: #dbdbdb;
+    margin: 50px;
+    padding: 50px;
+    
+}
+.profil img{
+    width: 150px;
+}
+
+#bilgi{
+    position: absolute;
+    background: #dbdbdb;
+    margin-top: 50px;
+    margin-left: 37%;
+    padding: 15px;
+    
+}
+
+.profil-duzenle{
+    margin: 50px;
+    padding: 50px;
+}
+.profil-duzenle img{
+    width: 20%;
+    display: block;
+}
+.profil-duzenle input{
+    margin-top: 15px;
+}
